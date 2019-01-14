@@ -1,4 +1,4 @@
-# Project Title
+# Nodejs-Express-Sequelizejs-PostgreSQL
 
 This basic example allows the user to run cruds on the back end using ExpressJS, performing authentication with PassportJS, SequelizeJS ORM for database and MochaJS for tests.
 
