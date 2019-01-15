@@ -1,31 +1,31 @@
 # Nodejs-Express-Sequelizejs-PostgreSQL
 
-This basic example allows the user to run cruds on the back end using ExpressJS, performing authentication with PassportJS, SequelizeJS ORM for database and MochaJS for tests.
+Este exemplo básico permite que o usuário execute cruds no back end usando ExpressJS, executando autenticação com PassportJS, SequelizeJS ORM para banco de dados e MochaJS para testes.
 
-### Prerequisites
+### Pré-requisitos
 
-To perform the installation and development you must have installed Node.js, PostgreSQL and Postman.
+Para executar a instalação e o desenvolvimento, você deve ter instalado o Node.js, o PostgreSQL e o Postman.
 
 * [Node.js](https://nodejs.org/en/docs/) - Platform using in example
 * [PostgreSQL](https://www.postgresql.org/docs/) - Database using in example
 * [Postman](https://www.getpostman.com/) - Postman Makes API Development Simple
 
-### Installing
+### Instalação
 
-To carry out the development some frameworks must be installed
+Para realizar o desenvolvimento alguns frameworks devem ser instalados
 
 ```
-npm i bcrypt --save
-npm i body-parser --save
-npm i express --save
-npm i jwt-simple --save
-npm i passport --save
-npm i passport-jwt --save
-npm i pg --save
-npm i sequelize --save
-npm i chai --save-dev
-npm i mocha --save-dev
-npm i supertest --save-dev
+npm i bcrypt
+npm i body-parser
+npm i express
+npm i jwt-simple
+npm i passport
+npm i passport-jwt
+npm i pg
+npm i sequelize
+npm i chai
+npm i mocha
+npm i supertest
 ```
 
 * [ExpressJS](https://expressjs.com/) - Framework for NodeJS
